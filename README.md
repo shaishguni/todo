@@ -4,7 +4,7 @@ A Django To-Do app with login and signup.
 # Local Setup
 
 ```json
-https://github.com/shaishguni/todo
+https://github.com/shaishguni/todo.git
 ```
 ```json
 virtualenv venv && source venv/bin/activate
